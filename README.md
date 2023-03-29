@@ -9,6 +9,6 @@
     📬:	atul18014@gmail.com <br>
     🧑‍🎨: Portfolio: # <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/atul-maurya-3890ba245/ <br>
-                Twitter: https://twitter.com/atul0why
+                🕊️:Twitter: https://twitter.com/atul0why
   </samp>
 </p>

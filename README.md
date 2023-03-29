@@ -3,8 +3,8 @@
 <p align="center">
   <samp>
     Hi, I'm Atul! 👋 <br>
-    😄: Software Developer , Graphic Designer grinding hard to create something cool  <br>
-    🙂: Favorite Tech: JavaScript, HTML5, Typescript, C++ ... <br>
+    😇: Software Developer , Graphic Designer grinding hard to create something cool  <br>
+    🙃: Favorite Tech: JavaScript, HTML5, Typescript, C++ ... <br>
     📖: I’m currently learning DS and Algo.. <br>
     📬:	atul18014@gmail.com <br>
     🧑‍🎨: Portfolio: # <br>

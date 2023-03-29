@@ -1,4 +1,4 @@
-<img src="#"/>
+<img src="https://github.com/atulbot/atulbot/blob/main/gitbanner.png"/>
  <hr></hr>
 <p align="center">
   <samp>

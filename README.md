@@ -4,7 +4,7 @@
   <samp>
     Hi, I'm Atul! 👋 <br>
     😄: Software Developer grinding hard to make something cool  <br>
-    🙂: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
+    🙂: Favorite Tech: JavaScript, HTML5, Typescript, C++ ... <br>
     📖: I’m currently learning DS and Algo.. <br>
     📬:	atul18014@gmail.com <br>
     🧑‍🎨: Portfolio: # <br>
